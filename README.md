@@ -1,1 +1,1 @@
-# covid19 data analysis of indian covid data
+# covid19 data analysis of india
